@@ -1,0 +1,275 @@
+16:58:18.629 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+16:58:18.656 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+16:58:19.782 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+16:58:20.174 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:58:21.474 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+16:58:21.475 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:58:25.242 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+16:58:26.571 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:58:26.571 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:58:51.079 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:58:57.590 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+16:59:15.642 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+10:49:34.978 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+10:49:34.984 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+10:49:35.373 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+10:49:35.483 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:49:36.007 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+10:49:36.007 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:49:38.776 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+10:49:39.984 [main] INFO  c.b.config.BrowserStackConfig - INFO
+10:49:39.985 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:49:47.824 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:49:50.264 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+10:49:53.531 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:07:54.477 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+12:07:54.484 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+12:07:55.128 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+12:07:55.234 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.lang.NullPointerException: Cannot invoke "java.util.Map.size()" because "m" is null.
+12:07:55.247 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:07:55.256 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:07:55.673 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:15:11.810 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+12:15:11.817 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+12:15:12.259 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+12:15:12.401 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:15:12.892 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+12:15:12.892 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:15:18.249 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+12:15:20.044 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:15:20.044 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:15:29.553 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:15:30.935 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+12:15:34.576 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+13:17:36.201 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+13:17:36.207 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+13:17:36.798 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+13:17:36.966 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:17:37.707 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+13:17:37.707 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:17:40.374 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+13:17:41.542 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:17:41.543 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:17:49.999 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:17:51.652 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+13:17:54.998 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+13:20:46.625 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+13:20:46.631 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+13:20:47.080 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+13:20:47.211 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:20:47.707 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+13:20:47.707 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:20:50.236 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+13:20:51.392 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:20:51.393 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:20:57.754 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:20:58.944 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+13:21:01.804 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+10:27:44.221 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+10:27:44.226 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+10:27:44.610 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+10:27:44.724 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:27:45.277 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+10:27:45.278 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:27:48.932 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+10:27:50.119 [main] INFO  c.b.config.BrowserStackConfig - INFO
+10:27:50.119 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:27:57.634 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:27:59.276 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+10:28:02.168 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+11:12:51.593 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+11:12:51.599 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+11:12:52.035 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+11:12:52.167 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:12:52.650 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+11:12:52.651 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:12:55.233 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+11:12:56.382 [main] INFO  c.b.config.BrowserStackConfig - INFO
+11:12:56.382 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:13:05.141 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:13:10.980 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+11:13:15.746 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+13:34:48.764 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+13:34:48.770 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+13:34:49.199 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+13:34:49.341 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:34:49.845 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+13:34:49.845 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:34:52.557 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+13:34:53.745 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:34:53.745 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:35:03.532 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:35:03.760 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+13:35:06.586 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+14:07:59.560 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+14:07:59.566 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+14:08:00.234 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+14:08:00.368 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:08:01.027 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+14:08:01.027 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:08:03.851 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+14:08:05.152 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:08:05.152 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:08:12.933 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:08:13.376 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+14:08:16.711 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+14:24:30.915 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+14:24:30.921 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+14:24:31.363 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+14:24:31.487 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:24:31.996 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+14:24:31.996 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:24:34.643 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+14:24:35.850 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:24:35.850 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:24:42.849 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:24:49.199 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+14:24:52.076 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+14:40:29.283 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+14:40:29.289 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+14:40:29.689 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+14:40:29.819 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:40:30.338 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+14:40:30.338 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:40:33.054 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+14:40:34.367 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:40:34.367 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:40:40.583 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:40:47.228 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+14:40:50.288 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+10:38:25.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+10:38:25.490 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+10:38:25.968 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+10:38:26.103 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:38:26.798 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+10:38:26.799 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:38:30.678 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+10:38:32.008 [main] INFO  c.b.config.BrowserStackConfig - INFO
+10:38:32.009 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:38:40.055 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:38:47.013 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+10:38:49.889 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+10:45:39.367 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+10:45:39.374 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+10:45:39.864 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+10:45:40.033 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:45:40.633 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+10:45:40.633 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:45:43.832 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+10:45:45.361 [main] INFO  c.b.config.BrowserStackConfig - INFO
+10:45:45.361 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:45:52.597 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:45:59.415 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+10:46:02.307 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+14:59:21.141 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+14:59:21.147 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+14:59:21.681 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+14:59:21.840 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:59:22.498 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+14:59:22.499 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:59:26.058 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+14:59:27.643 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:59:27.645 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:59:37.737 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:59:38.885 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+14:59:43.950 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+15:02:48.814 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+15:02:48.821 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+15:02:49.388 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+15:02:49.565 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:02:50.323 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+15:02:50.323 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:02:55.949 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+15:02:57.517 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:02:57.517 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:03:07.047 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:03:07.948 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+15:03:13.498 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+15:03:24.218 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+15:03:24.227 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+15:03:25.103 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+15:03:25.320 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:03:26.533 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+15:03:26.533 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:03:31.076 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+15:03:33.104 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:03:33.105 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:03:44.525 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:03:45.655 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+15:03:50.263 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:34:14.484 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+16:34:14.490 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+16:34:15.075 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+16:34:15.209 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:34:15.984 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+16:34:15.984 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:34:19.409 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+16:34:20.812 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:34:20.812 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:34:28.385 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:34:29.116 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+16:34:32.858 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:35:09.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+16:35:09.477 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+16:35:10.009 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+16:35:10.176 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:35:10.953 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+16:35:10.953 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:35:14.203 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+16:35:15.359 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:15.359 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:35:23.187 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:35:24.008 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+16:35:27.271 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:38:54.270 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+16:38:54.276 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+16:38:54.716 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+16:38:54.839 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:38:55.369 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+16:38:55.369 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:38:58.226 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+16:38:59.344 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:38:59.344 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:39:06.083 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:39:06.585 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+16:39:09.421 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:56:22.794 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+16:56:22.801 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+16:56:23.275 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\Downloads\READI-Mobile-Sep2023\browserstack.yml
+16:56:23.398 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:56:23.920 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://26a38c11638f1a21fe349c526cbfd061a906a9ba]
+16:56:23.920 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:56:27.003 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 7.0.0 which is lower than the minimum version we currently support (7.3.0).
+16:56:28.286 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:56:28.287 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:56:34.794 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:56:35.388 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+16:56:38.229 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.

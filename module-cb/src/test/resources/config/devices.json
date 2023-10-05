@@ -1,0 +1,14 @@
+{
+  "devices": [
+
+    {
+      "remoteAddress": "https://hub-cloud.browserstack.com/wd/hub",
+      "browserstack.user": "kiranbomble_cDxL1V",
+      "browserstack.key": "foUQ9mRGzBUUegwUtdhn",
+      "platformName": "android",
+      "platformVersion": "11.0",
+      "app": "bs://26a38c11638f1a21fe349c526cbfd061a906a9ba",
+      "deviceName": "Samsung Galaxy S22 Ultra"
+    }
+  ]
+}
